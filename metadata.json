@@ -1,0 +1,6 @@
+{
+  "name": "FIFA CUP",
+  "description": "Videojuego profesional de torneos de fútbol con 11 competiciones independientes, llaves interactivas, ligas, estadísticas, historial y almacenamiento SQLite. Presidente: Deiver Manuel Fernández Morales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

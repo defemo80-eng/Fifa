@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FIFA CUP</string>
+    <string name="president_label">PRESIDENTE DE LA FIFA</string>
+    <string name="president_name">DEIVER MANUEL FERNÁNDEZ MORALES</string>
+    <string name="enter_tournament_btn">ENTRAR A FIFA CUP</string>
+    <string name="nav_home">INICIO</string>
+    <string name="nav_calendar">CALENDARIO</string>
+    <string name="nav_history">HISTORIAL</string>
+    <string name="nav_stats">ESTADÍSTICAS</string>
+    <string name="nav_teams">EQUIPOS</string>
+</resources>
